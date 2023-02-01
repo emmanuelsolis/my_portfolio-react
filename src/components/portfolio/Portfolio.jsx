@@ -4,7 +4,7 @@ export default function Portfolio(props) {
     
 
     return (
-        <div className="portfolio">
+        <div className="portfolio" id='portfolio'>
             <h1>Portfolio</h1>
         </div>
     )

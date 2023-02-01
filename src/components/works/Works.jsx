@@ -5,8 +5,8 @@ export default function Works(props) {
     
 
     return (
-       <div className="works">
-        <h3>Jobs</h3>
+       <div className="works" id='works'>
+        <h3>Works</h3>
        </div>
     )
 }
